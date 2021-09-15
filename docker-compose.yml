@@ -11,3 +11,4 @@ services:
     image: otomato/au
     ports: 
       - 3100
+
